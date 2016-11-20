@@ -1,0 +1,44 @@
+Mono path[0] = 'D:/---SYSTREM---/Desktop/Unity/SpaceShooter/SpaceShooter_Data/Managed'
+Mono path[1] = 'D:/---SYSTREM---/Desktop/Unity/SpaceShooter/SpaceShooter_Data/Mono'
+Mono config path = 'D:/---SYSTREM---/Desktop/Unity/SpaceShooter/SpaceShooter_Data/Mono/etc'
+PlayerConnection initialized from D:/---SYSTREM---/Desktop/Unity/SpaceShooter/SpaceShooter_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55446
+Multi-casting "[IP] 192.168.0.102 [Port] 55446 [Flags] 2 [Guid] 2188723484 [EditorId] 1445683841 [Version] 1048832 [Id] WindowsPlayer(HP) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.102:55446]
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.209 seconds
+Platform assembly: D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\---SYSTREM---\Desktop\Unity\SpaceShooter\SpaceShooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 2880x1024 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.380386 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.252460 ms
+System memory in use before: 19.9 MB.
+System memory in use after: 20.0 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 1.121476 ms (FindLiveObjects: 0.080705 ms CreateObjectMapping: 0.076040 ms MarkObjects: 0.944671 ms  DeleteObjects: 0.017260 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2930 -> priority: 1 
+  Thread -> id: 410c -> priority: 1 
